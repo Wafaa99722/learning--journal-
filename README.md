@@ -4,3 +4,4 @@
 ## how to be a Growth Mindset :  
 ### obestacles should encourage you 
 ### face challenges with strong passion 
+### keep on mind that no pain means no gain 
