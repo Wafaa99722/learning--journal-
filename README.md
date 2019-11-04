@@ -6,3 +6,6 @@
 1. *obestacles should encourage you* 
 2. face challenges with strong passion 
 3. keep on mind that no pain means no gain 
+ 
+
+ waffa mahasneh
