@@ -4,9 +4,13 @@ Through version control we can do :
 1. revert a file or project to a previous version 
 2. track modifications and modifying individuals 
 3. compare changes
-## Local Version Control : entails one database on your hard disk that stores changes to files
-## Centralized Version Control:This system entails a single server storing all changes and file versions, which can be accessed by various clients.
-## Distributed Version Control :addresses the major vulnerability of the CVS
+
+Local Version Control : entails one database on your hard disk that stores changes to files
+
+Centralized Version Control:This system entails a single server storing all changes and file versions, which can be accessed by various clients.
+
+Distributed Version Control :addresses the major vulnerability of the CVS
+
 ## what is Git:
 1.Snapshots
 2.Local Operations
