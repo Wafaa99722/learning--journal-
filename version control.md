@@ -13,4 +13,5 @@ Through version control we can do :
 4.Tracking Changes
 5.Loss of Data
 6.States
-## three main states of files in git: committed, modified and staged.
+## three main states of files in git: 
+committed, modified and staged.
