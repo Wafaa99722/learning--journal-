@@ -5,3 +5,10 @@ my name is wafaa mahasneh , I have studied English language and litreatur in Taf
 | [read2.md] |(https://wafaa99722.github.io/learning--journal-/read2) |  
 | [README.md] |(https://wafaa99722.github.io/learning--journal-/README) |  
 | [read444.md]|(https://wafaa99722.github.io/learning--journal-/read444) |
+
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
