@@ -38,4 +38,4 @@ Process &amp; Design
 
 **(Links to an external site.)**
 We can desin web pages with the HTML and uplode this pages to the servier.(
-This will allow people to enter my page and browsing it.
+This will allow people to enter my page and browsing it . . 
