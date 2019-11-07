@@ -38,26 +38,5 @@ for (var i = 0; i <NoofORder; i = i+1 ){
     } else if (Order == 'dogs'){
         Item = Item +'<img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/09/04/13/istock-1031307988.jpg?w968h681">';
     }
-
-    return Item;
 }
-
-
-
-
-
-
-
-
-  }
- var showOrder = function () {
-    var order = prompt("what do you want to order ?");
-  
-
-
-
-
-}
-
-
-
+    return Item; 
