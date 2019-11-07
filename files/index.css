@@ -1,4 +1,35 @@
-header {color:white;
+ body {
+     background-color: white;
+
+ }
+ h1 {
+     color: violet;
+
+
+ }
+
+ h2 {font-size:70px;
+
+}
+   header nav ul li {
+       font-size: 80px;
+
+   }
+
+p {
+    color: red;
+    text-align: center;
+  }
+
+ img {
+     width: 1000px;
+     height: px;
+
+ }
+ 
+ 
+ 
+ header {color:white;
     background-color: tomato;
     text-align:center;
     font-size:30px;
