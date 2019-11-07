@@ -25,7 +25,7 @@ function showOrder(){
 var Order = prompt("what kind of pets you like to have ?");
 
 
-while (order !== 'cats'&& order !== 'dogs'){
+while (order !== "cats" && order !== "dogs"){
     order =promot("please choose cats or dogs");
 }
 var Item="";
@@ -40,3 +40,4 @@ for (var i = 0; i <NoofORder; i = i+1 ){
     }
 }
     return Item; 
+    
